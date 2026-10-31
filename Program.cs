@@ -1,4 +1,5 @@
 ﻿using System;
+using GitPractice;
 
 int[] numbers = { 2, 4, 6 };
 
